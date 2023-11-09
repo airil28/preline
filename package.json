@@ -10,9 +10,12 @@
   },
   "dependencies": {
     "preline": "^2.0.0",
-    "vue": "^3.3.4"
+    "prettier": "^3.0.3",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
   },
   "devDependencies": {
+    "@types/vue": "^2.0.0",
     "@vitejs/plugin-vue": "^4.2.3",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
